@@ -1,0 +1,6 @@
+discord.py>=1.6
+python-dotenv
+sympy
+sudachipy
+sudachidict_core
+async_google_trans_new
