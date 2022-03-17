@@ -1,7 +1,7 @@
 import discord
 from async_google_trans_new import AsyncTranslator
 
-TOKEN = 'YOUR_TOKEN'
+TOKEN = 'YOUR_BOT_TOKEN'
 
 client = discord.Client()
 translator = AsyncTranslator()
