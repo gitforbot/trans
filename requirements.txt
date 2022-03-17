@@ -1,4 +1,4 @@
-discord.py>=1.6
+py-cord
 python-dotenv
 sympy
 sudachipy
